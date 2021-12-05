@@ -72,6 +72,11 @@ public class TeamWorkController {
         return CommonReturnType.create(200, works, "查询成功");
     }
 
+    /**
+     * jwt的测试类，被拦截的方法需要得到token的内容的测试类
+     * @param request
+     * @return
+     */
     @PostMapping("test")
     public Map<String, Object> test(HttpServletRequest request) {
         Map<String, Object> map = new HashMap<>();

@@ -13,6 +13,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * jwt拦截器
+ */
 public class JWTInterceptor implements HandlerInterceptor {
     @Override
     public boolean preHandle(@RequestBody HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
