@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: commons-codec-1.15.jar jackson-datatype-jsr310-2.13.0.jar as
+ m-7.1.jar jackson-module-parameter-names-2.13.0.jar gson-2.8.2.jar shir
+ o-lang-1.4.2.jar json-20170516.jar org.jacoco.agent-0.8.5-runtime.jar s
+ pringfox-spring-web-2.9.2.jar spring-aop-5.3.13.jar poi-ooxml-schemas-4
+ .1.2.jar mybatis-plus-3.4.2.jar aliyun-java-sdk-core-4.5.1.jar aliyun-j
+ ava-sdk-ecs-4.2.0.jar mybatis-3.5.6.jar slf4j-api-1.7.32.jar hibernate-
+ validator-cdi-6.1.0.Final.jar jackson-datatype-jdk8-2.13.0.jar ehcache-
+ 3.9.7.jar mybatis-plus-core-3.4.2.jar tomcat-embed-websocket-9.0.55.jar
+  jackson-annotations-2.13.0.jar snakeyaml-1.29.jar commons-math3-3.6.1.
+ jar mybatis-plus-boot-starter-3.4.2.jar druid-1.1.19.jar spring-plugin-
+ metadata-1.2.0.RELEASE.jar cglib-3.3.0.jar poi-4.1.2.jar commons-csv-1.
+ 8.jar spring-context-5.3.13.jar commons-beanutils-1.9.3.jar spring-jdbc
+ -5.3.13.jar shiro-config-ogdl-1.4.2.jar shiro-crypto-hash-1.4.2.jar jav
+ ax.el-3.0.1-b11.jar spring-boot-2.6.1.jar jackson-databind-2.13.0.jar t
+ omcat-embed-el-9.0.55.jar byte-buddy-1.11.22.jar springfox-swagger2-2.9
+ .2.jar commons-collections-3.2.2.jar aliyun-sdk-oss-3.10.2.jar springfo
+ x-swagger-common-2.9.2.jar fastjson-1.2.28.jar springfox-spi-2.9.2.jar 
+ opentracing-util-0.33.0.jar springfox-swagger-ui-2.9.2.jar shiro-core-1
+ .4.2.jar log4j-api-2.14.1.jar spring-beans-5.3.13.jar mybatis-spring-2.
+ 0.5.jar swagger-models-1.5.20.jar shiro-cache-1.4.2.jar javax.activatio
+ n-api-1.2.0.jar spring-boot-starter-2.6.1.jar jul-to-slf4j-1.7.32.jar l
+ ogback-core-1.2.7.jar spring-core-5.3.13.jar spring-boot-starter-json-2
+ .6.1.jar httpcore-4.4.14.jar spring-boot-starter-web-2.6.1.jar shiro-ev
+ ent-1.4.2.jar aliyun-java-sdk-ram-3.0.0.jar opentracing-api-0.33.0.jar 
+ classmate-1.5.1.jar mybatis-plus-annotation-3.4.2.jar spring-boot-start
+ er-jdbc-2.6.1.jar easyexcel-3.0.5.jar log4j-to-slf4j-2.14.1.jar jakarta
+ .validation-api-2.0.2.jar jdom2-2.0.6.jar java-jwt-3.4.0.jar stax-api-1
+ .0.1.jar spring-boot-starter-tomcat-2.6.1.jar jsqlparser-4.0.jar logbac
+ k-classic-1.2.7.jar commons-compress-1.19.jar jackson-core-2.13.0.jar s
+ pringfox-core-2.9.2.jar spring-web-5.3.13.jar tomcat-embed-core-9.0.55.
+ jar ini4j-0.5.4.jar shiro-crypto-core-1.4.2.jar aliyun-java-sdk-kms-2.7
+ .0.jar poi-ooxml-4.1.2.jar spring-webmvc-5.3.13.jar mysql-connector-jav
+ a-8.0.27.jar shiro-config-core-1.4.2.jar jakarta.annotation-api-1.3.5.j
+ ar aliyun-sdk-vod-upload-1.4.14.jar spring-jcl-5.3.13.jar lombok-1.18.2
+ 2.jar commons-collections4-4.4.jar aliyun-java-sdk-vod-2.15.11.jar myba
+ tis-plus-extension-3.4.2.jar spring-boot-autoconfigure-2.6.1.jar Sparse
+ BitSet-1.2.jar hibernate-validator-6.1.0.Final.jar aliyun-java-sdk-sts-
+ 3.0.0.jar shiro-crypto-cipher-1.4.2.jar opentracing-noop-0.33.0.jar spr
+ ing-plugin-core-1.2.0.RELEASE.jar swagger-annotations-1.5.20.jar Hikari
+ CP-4.0.3.jar mapstruct-1.2.0.Final.jar guava-20.0.jar spring-tx-5.3.13.
+ jar curvesapi-1.06.jar spring-expression-5.3.13.jar xmlbeans-3.1.0.jar 
+ commons-logging-1.2.jar jettison-1.1.jar spring-boot-starter-logging-2.
+ 6.1.jar jaxb-api-2.3.1.jar springfox-schema-2.9.2.jar jboss-logging-3.4
+ .2.Final.jar httpclient-4.5.13.jar
+
